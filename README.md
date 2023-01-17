@@ -1,16 +1,233 @@
-### Hi there 👋
+# Christoffer Bredo Lillelund
+My name is Christoffer Bredo Lillelund, but you can call me Bredo.
 
-<!--
-**Mediemanden/Mediemanden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Consultant at [twoday](https://twoday.dk/) located in Visma House at Gærtorvet, Copenhagen, Denmark.
 
-Here are some ideas to get you started:
+I have a wide variety of interests and skills, ranging from C# Developer and Cloud solution Devops to Scrum master in Agile frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key words
+
+<div style="width: 45%;">
+    Consultant,
+    Developer,
+    Backend,
+    DevOps,
+    Scrum Master,
+    .Net,
+    Amazon Web Services (AWS),
+    Microsoft Azure,
+    Kubernetes,
+    REST APIs,
+    CICD,
+    SAFe,
+    Scrum
+</div>
+
+# Table of Contents
+- [Christoffer Bredo Lillelund](#christoffer-bredo-lillelund)
+  - [Key words](#key-words)
+- [Table of Contents](#table-of-contents)
+- [Projects](#projects)
+  - [STAR City](#star-city)
+  - [Kriminialforsorgen PUMA project](#kriminialforsorgen-puma-project)
+  - [Moodagent A/S Music Streaming](#moodagent-as-music-streaming)
+  - [vCatch Automatic test system](#vcatch-automatic-test-system)
+  - [Property Assessment System (UFST)](#property-assessment-system-ufst)
+- [Roles](#roles)
+    - [Legend](#legend)
+- [Technologies](#technologies)
+    - [Legend](#legend-1)
+- [Project management](#project-management)
+    - [Legend](#legend-2)
+
+# Competences
+
+<table class="skill-table">
+    <thead>
+        <tr>
+            <td>
+              Roles
+            </td>
+            <td>
+              Technologies
+            </td>
+            <td>
+              Tools/Frameworks
+            </td>
+            <td>
+              Project management
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+              Developer <br />
+              Devops <br />
+              Scrum master <br />
+            </td>
+            <td>
+              C# <br />
+              .NET Core <br />
+              ASP.NET <br />
+              Angular <br />
+              AngularJS <br />
+              MongoDB <br />
+              SQL <br />
+              Kubernetes <br />
+              Docker <br />
+              CI/CD <br />
+              REST API <br />
+              Swagger <br />
+              Amazon Web Services (AWS) <br />
+              Microsoft Azure <br />
+              Terraform <br />
+              Clojure <br />
+              Java <br />
+            </td>
+            <td>
+              Jira <br />
+              Confluence <br />
+              Scrum <br />
+              Scaled Agile Framework (SAFe) <br />
+            </td>
+            <td>
+              SCRUM facilitation <br />
+              Status reporting <br />
+              Velocity and capacity calculation <br />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+[Back to Top](#christoffer-bredo-lillelund)
+
+# Projects
+
+## STAR City
+
+__Costumer__:  Styrelsen for Arbejdsmarked og Rekruttering (STAR) – Digitalisering og implementering (STAR City)
+
+__Period__: Jun 2022 - current
+
+__Role__: Developer and Scrum Master
+
+__Project__: VITAS / JobAG / JobAD
+
+__Description__:
+
+STAR is responsible for all public efforts towards increasing occupation and gathering data and providing information about the Danish job market.
+STAR has business oriented, citizen oriented, and a-kasse oriented systems to support the effort to decrease unemployment. 
+
+I have primarily been on business oriented solutions, such as VITAS, JobAG and JobAD. 
+VITAS is a business oriented digital form solution, used by jobcenters and companies to apply for adult apprentices, interns, wage subsidy, mentor help, and other arragements.
+JobAG (Jobnet for Arbejdsgivere) is a webpage for companies to create job ads and job orders, to help companies increase their workforce.
+JobAD is a backend solution for handling job ads and their lifecycle. 
+
+As a scrum master I facilitate the SCRUM events of the team, as well as keep track of velocity, estimate capacity and reporting on the teams progress and well-being to the customer.
+As a developer I am working with Angular and Angular JS frontends, C# backends and SQL databases. The applications are hosted on windows servers' IIS and is mostly handled by a central infrastrcture team.
+
+__Technologies used__:
+* C#
+* Angular, Angular JS
+* SQL
+* IIS
+* Windows Server
+* Stonebranch
+* REST
+* SOAP
+* Git
+
+## Kriminialforsorgen PUMA project
+
+__Costumer__: Kriminalforsorgen
+
+__Period__: Mar 2022 - Jun 2022
+
+__Role__: Consultant/Developer
+
+__Project__: PUMA
+
+__Description__: 
+
+The PUMA system is used by Kriminalforsorgen's institutions to register and monitor their clients' statutory activities. These activities include Programs (Programvirksomhed), Education (Uddannelse), Addiction Treatment (Misbrugsbehandling), Work (Arbejde) and other activities.
+The system is build with a .NET backend and SQL stored procedures to handle business logic, with a AngularJS single-page application frontend.
+My job as a developer was to opdate the system with new features as specified by the users and the system owners. I also designed and wrote test cases for the new features.
+
+__Technologies used__:
+* .Net Backend
+* SQL Server Database
+* AngularJS Frontend
+* TestRail testcase management
+
+## Moodagent A/S Music Streaming
+__Period__: Nov 2020 - Feb 2022
+
+__Role__: Software Engineer
+
+__Project__: Moodagent App
+
+__Description__:
+
+Moodagent was a Danish music streaming app - a direct competitor to Spotify. The app used analysis of a song's musical features to determine similarity to other songs. This is how the app primarily recommended new music to the user, in contrast to other music streaming services, which recommend the music that other similar users are listening to. The business idea was to increase the amount of artists being listened to and therefore spread the pay to more artists. In my role as Software Engineer for Moodagent I developed, deployed and maintained REST APIs for the user-related data in the app, such as social posts, playlists and other. The APIs were written with .NET 3.1, containerized using Docker, and deployed as Microservices into a Kubernetes cluster using automated CICD pipelines. The whole lifecycle of the APIs was handled by me and my other API colleague on the team. We had the responsibility of 6 APIs, each handling their own business area.
+
+__Technnologies used__:
+* .Net API backend
+* MongoDB Database
+* Amazon Web Services (AWS)
+* Kubernetes
+* Docker
+* Kafka
+* Terraform
+* Git
+
+## vCatch Automatic test system
+__Costumer__: Visma consulting A/S
+
+__Period__: Aug 2020 - Oct 2020
+
+__Role__: Automated Tester
+
+__Project__: vCatch
+
+__Description__:
+
+Visma Fishery Solutions is a team within Visma who provides solutions to the Fishery industry. vCatch is one of their products, which is an integrated application for electronic logging of fishery activities and locations of boats. It is used by many countries in the world to make sure the fishing quotas are upheld. 
+vCatch needed their automated test system to get a facelift, as manually checking the entire user interface for any new introduced bugs on each release would take too many resources. I created automated tests for the system using Selenium, which controls an actual browser with the application running. I deployed the tests on a Windows server with a sceduler to continously run the tests on the testing environment.
+
+__Technologies used__:
+* Java
+* Selenium
+* Windows Server
+* Bash scripting
+
+## Property Assessment System (UFST)
+
+__Costumer__:  Udviklings- og Forenklingsstyrelsen (UFST) – Implementeringscenter for Ejendomsvurdering (ICE)
+
+__Period__: Sep 2018 - May 2020
+
+__Role__: Developer and Tech Lead
+
+__Project__: The new Property Assessment System
+
+__Description__:
+
+Since about 2011 the property assessments of all properties in Denmark was put on hold, as the former system was deemed illegal. This project is to create a new system that upholds all laws and are able to decrease the amount of manual case work needed to assess all properties in denmark. The system consists of many moving parts, including but not limited to: A case worker front end, a user-facing front end, a geographic information system, case lifecycle state machine, and personalised letter generation.
+The whole project consisted of about 300 developers, business analysts, architects, testers, Product Owners, Scrum masters, project managers and more. We worked using the Scaled Agile Framework (SAFe), consisting of Program increments, sprints, PI Planning, etc.
+
+As a developer I cocreated templates and a socalled merge-engine to merge the data and corresponding business rules into a HTML format of a personalized letter for each citizen with their property assessment and all related information. This was done using HTML, Clojure, Clojurescript, AWS Lambda and more. 
+Further into the project I was appointed Tech Lead for team handling the orchistration of citizen letters. My responsibility included the deliveries of 4 developers and infrastructural deployment of the system, which orchistrated the generation, journaling, and publishing of personalized letters for citizens.
+
+__Technologies used__:
+* Clojure
+* AWS Lamda
+* AWS SQS
+* AWS S3
+* SQL
+* Docker
+* Terraform
+* Git
+
+
+[Back to Top](#christoffer-bredo-lillelund)
