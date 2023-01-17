@@ -24,21 +24,13 @@ I have a wide variety of interests and skills, ranging from C# Developer and Clo
 </div>
 
 # Table of Contents
-- [Christoffer Bredo Lillelund](#christoffer-bredo-lillelund)
-  - [Key words](#key-words)
-- [Table of Contents](#table-of-contents)
+- [Competences](#competences)
 - [Projects](#projects)
   - [STAR City](#star-city)
   - [Kriminialforsorgen PUMA project](#kriminialforsorgen-puma-project)
   - [Moodagent A/S Music Streaming](#moodagent-as-music-streaming)
   - [vCatch Automatic test system](#vcatch-automatic-test-system)
   - [Property Assessment System (UFST)](#property-assessment-system-ufst)
-- [Roles](#roles)
-    - [Legend](#legend)
-- [Technologies](#technologies)
-    - [Legend](#legend-1)
-- [Project management](#project-management)
-    - [Legend](#legend-2)
 
 # Competences
 
