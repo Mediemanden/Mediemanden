@@ -1,5 +1,5 @@
-# Christoffer Bredo Lillelund
-My name is Christoffer Bredo Lillelund, but you can call me Bredo.
+# Christoffer Bredo Lillelund Wessman
+My name is Christoffer Bredo Lillelund Wessman, but you can call me Bredo.
 
 I am a Consultant at [twoday](https://twoday.dk/) located in Visma House at Gærtorvet, Copenhagen, Denmark.
 
